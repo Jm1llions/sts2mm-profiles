@@ -16,8 +16,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_bea217ab.zip",
-      "bundle_sha256": "bea217ab5ef188819eaea8616efa454958308e90a4b500e5c96939d13d1ae5c7"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_ef7a0e2d.zip",
+      "bundle_sha256": "ef7a0e2dc5b8e7ab312e488f28b59e59cdfe30167d8297f202e3fabfb77bbaf0"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_9f8ea54a.zip",
-      "bundle_sha256": "9f8ea54a7ba227a15007686cae34e069ac86dfd690c778c129b0073e921712ab"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_d0ee0360.zip",
+      "bundle_sha256": "d0ee03600ef254c3838861e338cbb72ce43452e3e1f4f10d6829b86a084307b1"
     },
     {
       "name": "MarthCharacterMod",
@@ -48,8 +48,8 @@
       "folder_name": "MarthCharacterMod",
       "mod_id": "MarthCharacterMod",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_6561e8ac.zip",
-      "bundle_sha256": "6561e8acd69880ebca49c07265528bca34129392b03cc6bf38e768a259579c2d"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_d014bbf4.zip",
+      "bundle_sha256": "d014bbf41e5cac3a426fd72e1c3d330ef5e864be8bbfa0bf9715367d98fd1e72"
     },
     {
       "name": "Watcher",
@@ -64,8 +64,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_6d858d94.zip",
-      "bundle_sha256": "6d858d94075686b64ebcc293d79d1d711e0c292e47889ebe0dc0b178da448437"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_dcd5bd38.zip",
+      "bundle_sha256": "dcd5bd38e90b549491dd1728ef46ceef450a59e95a32cc80a54fd5fcdddd73aa"
     },
     {
       "name": "LegacySpire",
@@ -80,8 +80,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_9f022252.zip",
-      "bundle_sha256": "9f022252eb800e74499954d8fe308fa34ed2ef700cade208ea9eb5889fb358c9"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_b77d01dc.zip",
+      "bundle_sha256": "b77d01dc23f8bf235cbb09f682f587c0c53ea257552f3558bf471f0bf2e4f59a"
     },
     {
       "name": "Ragdoll Physics",
@@ -95,8 +95,8 @@
       "folder_name": "ragdoll",
       "mod_id": "ragdoll",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_e8f15b05.zip",
-      "bundle_sha256": "e8f15b05482dad07d4c5a852e26086ed2637340a4e9be496b596786c44437463"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_f4101df6.zip",
+      "bundle_sha256": "f4101df6380f0964e2aec58e76640093f999a9525ee5a4c59b478d1bcc3bcf7a"
     },
     {
       "name": "The Miner",
@@ -111,8 +111,8 @@
       "folder_name": "Steve",
       "mod_id": "Steve",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/The_Miner_v0.1.3.1_5c5bf820.zip",
-      "bundle_sha256": "5c5bf820c24ee521094bbb61a6a1c1044b04f310f6f9ee58ce512b1d1fc97032"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/The_Miner_v0.1.3.1_5a7098fb.zip",
+      "bundle_sha256": "5a7098fb9fc61a7a127d99462010dfaa55cacaecfc64dd19906cb760641896f6"
     },
     {
       "name": "neowSkin",
@@ -127,23 +127,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_43e66041.zip",
-      "bundle_sha256": "43e66041e3f2eaec7e7ae632057d7da1199c65cac309c958ad8745464c43acfa"
-    },
-    {
-      "name": "potion_select_unlock",
-      "version": "v1.0.0",
-      "source": null,
-      "hash": "88c1af91eec83581361cc6263ceffcf03f9430f8fc8098736d27ca93b99a6520",
-      "files": [
-        "解锁药水可投掷目标限制 v0.103\\potion_select_unlock.dll",
-        "解锁药水可投掷目标限制 v0.103\\potion_select_unlock.json"
-      ],
-      "folder_name": "解锁药水可投掷目标限制 v0.103",
-      "mod_id": "potion_select_unlock",
-      "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/potion_select_unlock_v1.0.0_8213c82c.zip",
-      "bundle_sha256": "8213c82cff3dbc679adb6656577b33a70cebb6764c5d05844fb6433ded567eda"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_2edec012.zip",
+      "bundle_sha256": "2edec01257f5caa3a4e7b8b3f02be4fc0a2fd6e9ed2464becd0f24682c1ee845"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -158,8 +143,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_11056c37.zip",
-      "bundle_sha256": "11056c37567e0a2e47ed2ec100c0fa8b3e746855d543de6dc8238bcc1b43b5ae"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_08ea1223.zip",
+      "bundle_sha256": "08ea12234654cf91c898c39d10c81eadb9421f909e5d61a7d2d122228e307f3b"
     },
     {
       "name": "necrobinderSkin",
@@ -173,8 +158,8 @@
       "folder_name": "necrobinderSkin",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_927d60b5.zip",
-      "bundle_sha256": "927d60b5e297195d8798d3e20f91ed10324ab1a40e06c42247b2876c9da45aea"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_209adb69.zip",
+      "bundle_sha256": "209adb69fac39b0ed3ee4a87a9d3eac5837c357dabaf824735b04ef89d968612"
     },
     {
       "name": "silentSkin",
@@ -188,8 +173,8 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_3bfbb214.zip",
-      "bundle_sha256": "3bfbb21497c5a54d6e6c086a6aa4df11a738bc9d4ba3f8f10d127df9a8cede7e"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_1a9dfe6b.zip",
+      "bundle_sha256": "1a9dfe6b9edf96d2b599d71f3624ce1d5a2483528464cf95df2ff252e1d869e9"
     },
     {
       "name": "regentSkin",
@@ -203,11 +188,27 @@
       "folder_name": "ironcladSkin",
       "mod_id": "regentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_94d14fd2.zip",
-      "bundle_sha256": "94d14fd2121a429acabaa8ff22dd1a0607244d1056bc750705a51bb7fecb8204"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_53e7898a.zip",
+      "bundle_sha256": "53e7898a725cc0f97fe5cdf6c3dbad669fa72565255af518f0e829e928dda560"
+    },
+    {
+      "name": "Campfire Trading",
+      "version": "v1.0",
+      "source": null,
+      "hash": "7de49de0d1663d5d6cd3607eb963f560472800f37b3b9839096583fb41b387f6",
+      "files": [
+        "STS2Trade\\STS2Trade.dll",
+        "STS2Trade\\STS2Trade.json",
+        "STS2Trade\\STS2Trade.pck"
+      ],
+      "folder_name": "STS2Trade",
+      "mod_id": "STS2Trade",
+      "enabled": true,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_587b198e.zip",
+      "bundle_sha256": "587b198e86ca293c5e28c7d2b6cd0a8abc69739f6fad2b0beda6e7fc95623ae2"
     }
   ],
   "created_at": "2026-06-03T03:28:07.948027900Z",
-  "updated_at": "2026-06-03T05:01:33.103264500Z",
+  "updated_at": "2026-06-03T20:15:47.846864900Z",
   "public": false
 }
