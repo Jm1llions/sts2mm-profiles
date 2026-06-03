@@ -16,8 +16,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_2ad6f1a9.zip",
-      "bundle_sha256": "2ad6f1a9c357c29cb741b9a862274b9419ee73daa4ab994aaa3a3fa540277cec"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_bea217ab.zip",
+      "bundle_sha256": "bea217ab5ef188819eaea8616efa454958308e90a4b500e5c96939d13d1ae5c7"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_fb994eb5.zip",
-      "bundle_sha256": "fb994eb52ce683155203d708bb1be7ab60a9b45d328e0601e00a8207ba022a06"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_9f8ea54a.zip",
+      "bundle_sha256": "9f8ea54a7ba227a15007686cae34e069ac86dfd690c778c129b0073e921712ab"
     },
     {
       "name": "MarthCharacterMod",
@@ -48,8 +48,8 @@
       "folder_name": "MarthCharacterMod",
       "mod_id": "MarthCharacterMod",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_f8b7f098.zip",
-      "bundle_sha256": "f8b7f0987df5f725aa554d6acdf46f39a42812e5fc5ede5685aee33e70066fd5"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/MarthCharacterMod_v0.0.2_6561e8ac.zip",
+      "bundle_sha256": "6561e8acd69880ebca49c07265528bca34129392b03cc6bf38e768a259579c2d"
     },
     {
       "name": "Watcher",
@@ -64,8 +64,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_55b1f433.zip",
-      "bundle_sha256": "55b1f43332b20c1c11e611a67689fd2f68ea08e698de2f07b2da7093de42070e"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.6_6d858d94.zip",
+      "bundle_sha256": "6d858d94075686b64ebcc293d79d1d711e0c292e47889ebe0dc0b178da448437"
     },
     {
       "name": "LegacySpire",
@@ -80,8 +80,8 @@
       "folder_name": "LegacySpire",
       "mod_id": "LegacySpire",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_9b29a7f3.zip",
-      "bundle_sha256": "9b29a7f39a61daaccc3c09addc1d1affd9a478605a5e133f51daa8f8f06716f4"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_9f022252.zip",
+      "bundle_sha256": "9f022252eb800e74499954d8fe308fa34ed2ef700cade208ea9eb5889fb358c9"
     },
     {
       "name": "Ragdoll Physics",
@@ -95,8 +95,8 @@
       "folder_name": "ragdoll",
       "mod_id": "ragdoll",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_534451e8.zip",
-      "bundle_sha256": "534451e82e612c4e2fee593f3cf375178b3c2413cf5902999363e6075c01dc5a"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_e8f15b05.zip",
+      "bundle_sha256": "e8f15b05482dad07d4c5a852e26086ed2637340a4e9be496b596786c44437463"
     },
     {
       "name": "The Miner",
@@ -111,8 +111,8 @@
       "folder_name": "Steve",
       "mod_id": "Steve",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/The_Miner_v0.1.3.1_29918744.zip",
-      "bundle_sha256": "299187441999839c92ba54e139846f42e9b3866211f8160959580e1a49ba28d1"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/The_Miner_v0.1.3.1_5c5bf820.zip",
+      "bundle_sha256": "5c5bf820c24ee521094bbb61a6a1c1044b04f310f6f9ee58ce512b1d1fc97032"
     },
     {
       "name": "neowSkin",
@@ -127,25 +127,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_97cbeb4e.zip",
-      "bundle_sha256": "97cbeb4ec9f56915cf7f8750111a5fdbc6684bd4cc84aa01ba98e6d13858d57d"
-    },
-    {
-      "name": "Act4Heart",
-      "version": "1.1.3",
-      "source": null,
-      "hash": "a98a2724b2f2d2c486bac7f80e5705114b39a526c294ac61ead33bbda8c19177",
-      "files": [
-        "Act4Heart\\act4heart.config",
-        "Act4Heart\\Act4Heart.dll",
-        "Act4Heart\\Act4Heart.pck",
-        "Act4Heart\\mod_manifest.json"
-      ],
-      "folder_name": "Act4Heart",
-      "mod_id": "Act4Heart",
-      "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Act4Heart_v1.1.3_0565289f.zip",
-      "bundle_sha256": "0565289f7694c6ffa1bae2a9bca18b59cf2490fff35a07163658b02609cc72f4"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_43e66041.zip",
+      "bundle_sha256": "43e66041e3f2eaec7e7ae632057d7da1199c65cac309c958ad8745464c43acfa"
     },
     {
       "name": "potion_select_unlock",
@@ -159,8 +142,8 @@
       "folder_name": "解锁药水可投掷目标限制 v0.103",
       "mod_id": "potion_select_unlock",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/potion_select_unlock_v1.0.0_59a7b124.zip",
-      "bundle_sha256": "59a7b124adf8662399c5373163ad1b617d1f78d84d26707503ddc135331655de"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/potion_select_unlock_v1.0.0_8213c82c.zip",
+      "bundle_sha256": "8213c82cff3dbc679adb6656577b33a70cebb6764c5d05844fb6433ded567eda"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -175,8 +158,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_c861b508.zip",
-      "bundle_sha256": "c861b508248a85c5584494795e65075a787c0a9fb7280cd317b2b50302010da4"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_11056c37.zip",
+      "bundle_sha256": "11056c37567e0a2e47ed2ec100c0fa8b3e746855d543de6dc8238bcc1b43b5ae"
     },
     {
       "name": "necrobinderSkin",
@@ -190,8 +173,8 @@
       "folder_name": "necrobinderSkin",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_57802e67.zip",
-      "bundle_sha256": "57802e67a134f26d338aca46382adc68e4ce3be573ac7f9d807e427abd6d21ac"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_927d60b5.zip",
+      "bundle_sha256": "927d60b5e297195d8798d3e20f91ed10324ab1a40e06c42247b2876c9da45aea"
     },
     {
       "name": "silentSkin",
@@ -205,8 +188,8 @@
       "folder_name": "silentSkin",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_7cf8157f.zip",
-      "bundle_sha256": "7cf8157f420c67fbbce39e577d29a2681c4228cbbdccfcca4f19780a14d0fa1c"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_3bfbb214.zip",
+      "bundle_sha256": "3bfbb21497c5a54d6e6c086a6aa4df11a738bc9d4ba3f8f10d127df9a8cede7e"
     },
     {
       "name": "regentSkin",
@@ -220,11 +203,11 @@
       "folder_name": "ironcladSkin",
       "mod_id": "regentSkin",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_158ca9fc.zip",
-      "bundle_sha256": "158ca9fc78eab16a76b0cc31d5c7928c171c61cf1224749c97dab13726844c70"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_94d14fd2.zip",
+      "bundle_sha256": "94d14fd2121a429acabaa8ff22dd1a0607244d1056bc750705a51bb7fecb8204"
     }
   ],
   "created_at": "2026-06-03T03:28:07.948027900Z",
-  "updated_at": "2026-06-03T04:54:24.001622500Z",
+  "updated_at": "2026-06-03T05:01:33.103264500Z",
   "public": false
 }
