@@ -15,11 +15,11 @@
       "folder_name": "DefectSkin_AD",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_075b2aab.zip",
-      "bundle_sha256": "075b2aab98c4fa936e5bd382dfd304deade09c50195deb30fa771acc040110b8"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_b1d88ecf.zip",
+      "bundle_sha256": "b1d88ecf5d6a096d1fde5124fe19d5b40779fffa12fbb8c78879fd1dab32c4cb"
     }
   ],
   "created_at": "2026-06-04T04:35:49.315880500Z",
-  "updated_at": "2026-06-04T04:36:27.317228Z",
+  "updated_at": "2026-06-04T04:37:16.288876500Z",
   "public": false
 }
