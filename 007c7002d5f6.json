@@ -1,0 +1,25 @@
+{
+  "name": "no characters pack",
+  "game_version": null,
+  "created_by": "Jm1llions",
+  "mods": [
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "df9e91f0a2bdfa9040fcac29b4b658343cca2eece22fc5fb30d68033d77b25c4",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": true,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_075b2aab.zip",
+      "bundle_sha256": "075b2aab98c4fa936e5bd382dfd304deade09c50195deb30fa771acc040110b8"
+    }
+  ],
+  "created_at": "2026-06-04T04:35:49.315880500Z",
+  "updated_at": "2026-06-04T04:36:27.317228Z",
+  "public": false
+}
