@@ -15,11 +15,151 @@
       "folder_name": "DefectSkin_AD",
       "mod_id": "DefectSkin_AD",
       "enabled": true,
-      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_b1d88ecf.zip",
-      "bundle_sha256": "b1d88ecf5d6a096d1fde5124fe19d5b40779fffa12fbb8c78879fd1dab32c4cb"
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/DefectSkin_AD_v0.1.0_51523ed1.zip",
+      "bundle_sha256": "51523ed14e18ac103a73561b634343287c1a5fd3268d3f76cc56d15cbd2c47db"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": null,
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_d54b0faf.zip",
+      "bundle_sha256": "d54b0fafebe67317f2d931fc3bd8c2bc6b7e4ea889279bc2a8d940769f8bda92"
+    },
+    {
+      "name": "LegacySpire",
+      "version": "1.1.13",
+      "source": null,
+      "hash": "c94bb9e95e9e089f6fe5c3cf88a87d14066a05cbdafb57cba5d364b548acdb15",
+      "files": [
+        "LegacySpire\\LegacySpire.dll",
+        "LegacySpire\\LegacySpire.json",
+        "LegacySpire\\LegacySpire.pck"
+      ],
+      "folder_name": "LegacySpire",
+      "mod_id": "LegacySpire",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.13_e9b1e39b.zip",
+      "bundle_sha256": "e9b1e39b363e476fd3b92f8b331ded84c42a021251bec27f9de8bb62e9605940"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_b5c2b62a.zip",
+      "bundle_sha256": "b5c2b62a3713f69fc4d27140769a2fb0d3bd251e97a988206374a362307daefb"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_01061122.zip",
+      "bundle_sha256": "01061122d496172f83e4ffce122cf09f7265724265cab71345e7de285a600734"
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "silentSkin\\silentSkin\\mod_manifest.json",
+        "silentSkin\\silentSkin\\silentSkin.pck"
+      ],
+      "folder_name": "silentSkin",
+      "mod_id": "silentSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_76d7a844.zip",
+      "bundle_sha256": "76d7a8449ba34392696c7f112963db902859858f28e165e32fdd1001c3ca54c0"
+    },
+    {
+      "name": "regentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aa362fb5d7bbfcac08ede4c7390eab436fc9ab33903b3b05dcaed42bd7abe280",
+      "files": [
+        "regentSkin\\ironcladSkin\\mod_manifest.json",
+        "regentSkin\\ironcladSkin\\regentSkin.pck"
+      ],
+      "folder_name": "ironcladSkin",
+      "mod_id": "regentSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_0b65b7f0.zip",
+      "bundle_sha256": "0b65b7f002595e072cf72d8087309c6184e6fc5df4a7ece2e6363c5c1cd73f6d"
+    },
+    {
+      "name": "Ragdoll Physics",
+      "version": "1.0.1",
+      "source": null,
+      "hash": "b5fbb720e0b48fdd2a72118ac019c6830709182f563f9c5f9892b235836523d0",
+      "files": [
+        "ragdoll\\mod_manifest.json",
+        "ragdoll\\ragdoll.dll"
+      ],
+      "folder_name": "ragdoll",
+      "mod_id": "ragdoll",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/Ragdoll_Physics_v1.0.1_1634660f.zip",
+      "bundle_sha256": "1634660ff844466013a05af46ed51f7b68ca61b9ef7e79e2db6067c6f83d87e9"
+    },
+    {
+      "name": "neowSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "00b3f3d0e6a325d7b513833d83079cbe70f133a64f0726810e398360ff31ed5b",
+      "files": [
+        "neowSkin1.0\\neowSkin\\neowSkin.pck",
+        "neowSkin1.0\\neowSkin\\neowSkinmod_manifest.json",
+        "neowSkin1.0\\neowSkin\\美术版权说明.txt"
+      ],
+      "folder_name": "neowSkin",
+      "mod_id": "neowSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_6ca49e90.zip",
+      "bundle_sha256": "6ca49e9015cfb185b4dce35f7825196fe4685d92bd864d3bf52f35b19a7bbe81"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "necrobinderSkin0.8\\necrobinderSkin\\mod_manifest.json",
+        "necrobinderSkin0.8\\necrobinderSkin\\necrobinderSkin.pck"
+      ],
+      "folder_name": "necrobinderSkin",
+      "mod_id": "necrobinderSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/Jm1llions/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_c877ccde.zip",
+      "bundle_sha256": "c877ccdeba6258d344103823b640c5f4ad6ef7f20a04900f442fad4b5400a91f"
     }
   ],
   "created_at": "2026-06-04T04:35:49.315880500Z",
-  "updated_at": "2026-06-04T04:37:16.288876500Z",
+  "updated_at": "2026-06-04T04:38:16.717064600Z",
   "public": false
 }
